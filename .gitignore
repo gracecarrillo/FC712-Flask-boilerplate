@@ -1,0 +1,19 @@
+# ignore these giles
+.env
+*.pyc
+.DS_Store
+
+# ignore these folders
+/__pycache__/*
+/env/*
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py   
